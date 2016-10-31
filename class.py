@@ -1,4 +1,4 @@
-class wholwsale(object):
+class wholesale(object):
 	def _init_(self,amount,item,price,networth=15000):
 		self.amount=amount
 		self.item=item
